@@ -46,5 +46,3 @@ Proposta visual montada no Canva a partir do conceito inicial criado com apoio d
 A composição explora cores suaves, linguagem acolhedora e a visualização das tarefas e de seus responsáveis.
 
 Esta versão é estática e ainda não foi testada com usuários.
-
-![Tela inicial do Nosso Lar montada no Canva](nosso-lar-canva.png)
