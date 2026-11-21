@@ -1,17 +1,14 @@
 # Nosso Lar
-Compartilhando tarefas e cuidando da casa em família.
+Compartilhando tarefas e cuidando da casa.
 
 ## Sobre o projeto
-Projeto de estudo em UX Design, em desenvolvimento, inspirado na minha experiência como mãe de três filhos e nos desafios de organizar as tarefas domésticas.
+Projeto de estudo em UX Design sobre organização e divisão das tarefas domésticas.
 
 ## Objetivo
-Investigar como facilitar a organização e a divisão das tarefas da casa entre os integrantes da família.
+Investigar como tornar as responsabilidades mais claras e reduzir a necessidade de lembretes constantes.
 
-## Tarefas consideradas
-- Arrumar as camas.
-- Limpar o chão.
-- Lavar o banheiro.
-- Cuidar das roupas.
+## Problema a investigar
+Como facilitar a divisão e o acompanhamento das tarefas entre pessoas que compartilham uma casa?
 
 ## Etapa atual
-Compreensão da rotina e levantamento das dificuldades.
+Definição do problema e planejamento da pesquisa.
