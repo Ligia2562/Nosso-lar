@@ -37,3 +37,14 @@ Imprevistos dificultam cumprir os combinados, e não há uma maneira simples de 
 
 ## Limitações
 Essas hipóteses ainda não foram validadas com usuários reais.
+
+
+## Tela inicial — versão no Canva
+
+Proposta visual montada no Canva a partir do conceito inicial criado com apoio de IA.
+
+A composição explora cores suaves, linguagem acolhedora e a visualização das tarefas e de seus responsáveis.
+
+Esta versão é estática e ainda não foi testada com usuários.
+
+![Tela inicial do Nosso Lar montada no Canva](nosso-lar-canva.png)
