@@ -1,4 +1,4 @@
-# Nosso Lar
+# Lar com afeto
 Compartilhando tarefas e cuidando da casa.
 
 ## Sobre o projeto
